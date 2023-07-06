@@ -2,7 +2,7 @@ import pyautogui
 import time
 
 def mesaj():
-    pyautogui.write("hayreddin karamana gelhayredd")
+    pyautogui.write("I'm trying to python code.")
     pyautogui.press('enter')
 
 while True:
