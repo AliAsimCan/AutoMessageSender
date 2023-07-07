@@ -1,2 +1,2 @@
 # AutoMessageSender
- My first amator project
+ My first amateur project
